@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniketh113
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular Testing Tool called Protractor 
-- 📫 How to reach me : mail me at anikethreddy03@gmail.com
+- 🌱 I’m currently learning Windows Network Administration, Full StacK Webdevelopment using MEVN Stack. 
+- 📫 How to reach me : mail me at yelgondaanikethreddy@gmail.com
 
 <!---
 aniketh113/aniketh113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
