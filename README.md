@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketh113
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Windows Network Administration, Full StacK Webdevelopment using MEVN Stack. 
+- 🌱 I’m currently learning UNIX Network Administration, Full StacK Webdevelopment using MEVN Stack. 
 - 📫 How to reach me : mail me at yelgondaanikethreddy@gmail.com
 
 <!---
